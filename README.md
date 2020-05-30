@@ -11,12 +11,12 @@ are randomly generated with boundaries in place. Ranks are assigned to the stude
 * Each day 200 students are given admission to their preffered college and branch , and the records are stored in a CSV.
 * Each CSV have 200 students and 50 CSV's are generated for all the records.
 * RUN THE CODES IN THE FOLL ORDER :
-1)studentdetails.ipynb
-2)collegedetails.ipynb
-3)rank.ipynb
-4)choicedetailsnew.ipynb
-5)Day1admissions.ipynb
-5)admissions.ipynb
+*1)studentdetails.ipynb
+*2)collegedetails.ipynb
+*3)rank.ipynb
+*4)choicedetailsnew.ipynb
+*5)Day1admissions.ipynb
+*6)admissions.ipynb
 
 ** NOTE : Choice selection and admission asignment takes a lot of time to run as large data sets.
 
