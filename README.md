@@ -16,7 +16,7 @@ are randomly generated with boundaries in place. Ranks are assigned to the stude
 *3)rank.ipynb
 *4)choicedetailsnew.ipynb
 *5)Day1admissions.ipynb
-*6)admissions.ipynb
+*6)admissions.ipynb.
 
 ** NOTE : Choice selection and admission asignment takes a lot of time to run as large data sets.
 
